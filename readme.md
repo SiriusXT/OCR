@@ -15,7 +15,7 @@ OCR工具：支持文字识别、公式识别、语音识别。
 
 ### 公式识别
 
-使用mathpix接口，总共每月1000次。可以自定义api，申请网站为：[Mathpix Accounts](https://accounts.mathpix.com/ocr-api/)
+使用mathpix接口，总共每月1000次。可以识别为 word格式和latex格式。可以自定义api，申请网站为：[Mathpix Accounts](https://accounts.mathpix.com/ocr-api/)
 
 ### 语音识别
 
